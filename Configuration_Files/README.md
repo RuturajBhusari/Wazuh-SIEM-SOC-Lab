@@ -11,4 +11,3 @@ This folder contains the configuration files used during the implementation of t
 - VirusTotal Integration
 - Custom Detection Rules
 
-**Note:** Sensitive information such as passwords, API keys, and certificates has been removed before publishing.
