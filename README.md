@@ -36,6 +36,21 @@ Implemented a Wazuh-based Security Operations Center (SOC) lab to demonstrate se
 - Integrated VirusTotal API with Wazuh.
 - Performed reputation checks on detected files.
 
+## SOC Investigation Case Studies
+
+This repository also contains a collection of **20 sanitized SOC investigation case studies** covering WAF, VPN, Web Proxy, Firewall, and IPS events.
+
+| Technology | Cases |
+|---|---:|
+| WAF | 5 |
+| VPN | 5 |
+| Web Proxy | 5 |
+| Firewall | 3 |
+| IPS | 2 |
+| **Total** | **20** |
+
+See [`SOC Investigation Case Studies`](SOC-Investigation-Case-Studies/README.md) for the complete collection.
+
 ## Key Achievements
 
 - Built a complete SOC lab environment.
@@ -43,13 +58,16 @@ Implemented a Wazuh-based Security Operations Center (SOC) lab to demonstrate se
 - Configured automated active response actions.
 - Investigated and validated security events.
 - Demonstrated incident detection and response workflows.
-
+- Documented and sanitized SOC investigation case studies for portfolio use.
 
 ## Skills Demonstrated
 - SIEM
 - Wazuh
+- Splunk
 - Linux Administration
 - Incident Response
 - Threat Detection
 - Log Analysis
 - SOC Operations
+- IOC Investigation
+- Security Monitoring
